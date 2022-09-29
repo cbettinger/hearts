@@ -497,3 +497,12 @@ label.margin-toggle:not(.sidenote-number) {
 		width: 100%;
 	}
 }
+
+/* modifications */
+footer {
+	padding: 5rem 0rem;
+}
+
+footer>p {
+	font-size: initial;
+}
